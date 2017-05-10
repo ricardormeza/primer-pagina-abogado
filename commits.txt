@@ -1,0 +1,5 @@
+commit e6d365813d7a8a13a99ebfdbbdc31a732a995492
+Author: RickyRaMx <ricardo.rmeza@live.com>
+Date:   Tue May 9 20:38:10 2017 -0500
+
+    es mi primer archivo que subo
